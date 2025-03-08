@@ -1540,3 +1540,8 @@ a.btn-link.text-light:after {
   background-size: cover;
   transition: transform .3s ease-out;
 }
+
+.footer-intro img {
+  max-width: 150px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
